@@ -4,15 +4,15 @@
   "commits_url": "https://api.github.com/gists/1b1e6aa9e0019a6c17c432bdbb462db5/commits",
   "id": "1b1e6aa9e0019a6c17c432bdbb462db5",
   "node_id": "G_kwDOCGrzedoAIDFiMWU2YWE5ZTAwMTlhNmMxN2M0MzJiZGJiNDYyZGI1",
-  "git_pull_url": "https://gist.github.com/1b1e6aa9e0019a6c17c432bdbb462db5.git",
-  "git_push_url": "https://gist.github.com/1b1e6aa9e0019a6c17c432bdbb462db5.git",
-  "html_url": "https://gist.github.com/Samue-l1/1b1e6aa9e0019a6c17c432bdbb462db5",
+  "git_pull_url": "https://github.com/deykogetname/db/blob/main/dtbs.git",
+  "git_push_url": "https://github.com/deykogetname/db/blob/main/dtbs.git",
+  "html_url": "https://raw.githubusercontent.com/deykogetname/db/refs/heads/main/dtbs",
   "files": {
     "accesss.json": {
       "filename": "accesss.json",
       "type": "application/json",
       "language": "JSON",
-      "raw_url": "https://gist.githubusercontent.com/Samue-l1/1b1e6aa9e0019a6c17c432bdbb462db5/raw/ba53ef4bc3a68e8ee2fbb685b21a9f90099e4163/accesss.json",
+      "raw_url": "https://raw.githubusercontent.com/deykogetname/db/refs/heads/main/dtbs",
       "size": 669,
       "truncated": false,
       "content": "{\n\"vip_users\" : [\n             \"6289506413460\",\n             \"628566227355\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\",\n             \"628\"\n            \n   \n             ]\n}"
