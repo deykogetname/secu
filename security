@@ -1,8 +1,8 @@
 {
   "url": "https://raw.githubusercontent.com/deykogetname/secu/refs/heads/main/security",
   "forks_url": "https://api.github.com/gists/1b1e6aa9e0019a6c17c432bdbb462db5/forks",
-  "commits_url": "https://api.github.com/gists/1b1e6aa9e0019a6c17c432bdbb462db5/commits",
-  "id": "1b1e6aa9e0019a6c17c432bdbb462db5",
+  "commits_url": "https://raw.githubusercontent.com/deykogetname/db/refs/heads/main/commits",
+  "id": "deykogetname",
   "node_id": "G_kwDOCGrzedoAIDFiMWU2YWE5ZTAwMTlhNmMxN2M0MzJiZGJiNDYyZGI1",
   "git_pull_url": "https://github.com/deykogetname/db/blob/main/dtbs.git",
   "git_push_url": "https://github.com/deykogetname/db/blob/main/dtbs.git",
